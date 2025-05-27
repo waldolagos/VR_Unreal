@@ -7,11 +7,4 @@ DerivedDataCache/*
 Intermediate/*
 Plugins/*/Intermediate/*
 Saved/*
-Binaries/Win64/Unab_Mineria_EXP_02.exp
-Binaries/Win64/Unab_Mineria_EXP_02.exe
-Binaries/Win64/Unab_Mineria_EXP_02.lib
-Binaries/Win64/Unab_Mineria_EXP_02.pdb
-Binaries/Win64/Unab_Mineria_EXP_02.target
-Binaries/Win64/Unab_Mineria_EXP_02-Win64-Shipping.pdb
-Binaries/Win64/Unab_Mineria_EXP_02-Win64-Shipping.exe
-Unab_Mineria_EXP_02.uproject
+Binaries/Win64/
